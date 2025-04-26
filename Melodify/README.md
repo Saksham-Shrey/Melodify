@@ -1,8 +1,9 @@
 # Melodify - Modern Music Player
 
 <div align="center">
-  <img src="Resources/melodify-logo.png" alt="Melodify Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c80b8e5d-b647-4e20-96a4-d7b0d3bd7bcf" alt="Melodify Logo" width="200" style="border-radius: 15px;"/>
   <p><i>A sophisticated music player with immersive 3D carousel experience</i></p>
+
   
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF2D55?style=for-the-badge&logo=swift&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -10,21 +11,12 @@
   ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 </div>
 
-## ✨ Overview
+## Overview
 
 Melodify is a next-generation music player app that combines stunning visual design with powerful audio features. Built with SwiftUI and MVVM architecture, it delivers a fluid, immersive music experience with its 3D carousel interface, glassmorphic design elements, and smart playback capabilities.
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="Resources/screenshots/home-screen.png" alt="Home Screen" width="250"/></td>
-      <td><img src="Resources/screenshots/player-screen.png" alt="Player Screen" width="250"/></td>
-      <td><img src="Resources/screenshots/search-screen.png" alt="Search Screen" width="250"/></td>
-    </tr>
-  </table>
-</div>
 
-## 🔥 Key Features
+## Key Features
 
 ### Interactive Music Experience
 - **3D Album Carousel**: Swipe, tap, or use controls to browse albums with fluid 3D animations
@@ -51,7 +43,7 @@ Melodify is a next-generation music player app that combines stunning visual des
 - **Trending Section**: Discover popular music through the Deezer API
 - **Responsive Results**: Fast-loading content with elegant loading states
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 Melodify is engineered with modern best practices and follows a clean MVVM architecture:
 
@@ -77,7 +69,7 @@ Melodify/
 - **SwiftUI Animations**: GPU-accelerated animations for fluid experience
 - **Clean API Integration**: Structured network layer with Deezer API
 
-## 🔧 Requirements & Dependencies
+## Requirements & Dependencies
 
 ### System Requirements
 - **iOS**: 16.0 or later
@@ -89,7 +81,7 @@ Melodify/
 - **Deezer API**: Powers music discovery and streaming
 - **SF Symbols**: Used for consistent iconography
 
-## 📦 Installation
+## Installation
 
 ### For Users
 1. Clone this repository
@@ -110,7 +102,7 @@ Melodify/
 3. Open the project in Xcode
 4. Build and run the application
 
-## 💡 Usage Examples
+## Usage Examples
 
 ### Playing Music
 1. Browse through the album carousel by swiping left or right
@@ -129,7 +121,7 @@ Melodify/
 3. Use rewind button to go back 10 seconds
 4. Tap shuffle to enable smart shuffle mode
 
-## 🧩 Extension Points
+## Extension Points
 
 Melodify is designed for extensibility. Here are some areas for potential enhancement:
 
@@ -139,7 +131,7 @@ Melodify is designed for extensibility. Here are some areas for potential enhanc
 - **Audio Effects**: Add equalizer and audio enhancement features
 - **Cross-device Sync**: Enable continuity across user's devices
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome and appreciated! Here's how you can contribute:
 
@@ -151,7 +143,7 @@ Contributions are welcome and appreciated! Here's how you can contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## 📋 Roadmap
+## Roadmap
 
 - [ ] User accounts and personalization
 - [ ] Offline mode with download management
@@ -160,20 +152,8 @@ Please ensure your code follows the project's coding standards and includes appr
 - [ ] Siri shortcuts support
 - [ ] Apple Watch companion app
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- **Deezer API**: For providing music data and streaming capabilities
-- **Apple**: For SwiftUI, SF Symbols, and developer tools
-- **Open Source Community**: For inspiration and shared knowledge
-
-## 📬 Contact & Support
+## Contact & Support
 
 For questions, suggestions, or support requests, please:
 - Open an issue in this repository
 - Contact the maintainer at [sakshamshrey@gmail.com](sakshamshrey@gmail.com)
-
----
