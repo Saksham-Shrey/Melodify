@@ -43,6 +43,13 @@ Melodify is a next-generation music player app that combines stunning visual des
 - **Trending Section**: Discover popular music through the Deezer API
 - **Responsive Results**: Fast-loading content with elegant loading states
 
+### Demo
+https://github.com/user-attachments/assets/1268d459-aaf8-4482-891d-31f728b6685b
+
+
+
+
+
 ## Technical Architecture
 
 Melodify is engineered with modern best practices and follows a clean MVVM architecture:
