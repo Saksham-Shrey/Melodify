@@ -89,8 +89,6 @@ Melodify/
 - **SF Symbols**: Used for consistent iconography
 
 ## Installation
-
-### For Users
 1. Clone this repository
    ```bash
    git clone https://github.com/yourusername/Melodify.git
@@ -98,16 +96,6 @@ Melodify/
 2. Open `Melodify.xcodeproj` in Xcode
 3. Select your target device or simulator
 4. Build and run (⌘+R)
-
-### For Developers
-1. Clone the repository as above
-2. Install development dependencies if needed
-   ```bash
-   # If using CocoaPods (future expansion)
-   pod install
-   ```
-3. Open the project in Xcode
-4. Build and run the application
 
 ## Usage Examples
 
